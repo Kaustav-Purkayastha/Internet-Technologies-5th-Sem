@@ -1,0 +1,22 @@
+LIST OF PRACTICAL QUESTIONS:
+
+1. Write a Java program to explore the different methods of ArrayList class.
+
+2. Write a Java program to sort the list of numbers or words using collection framework.
+
+3. Write a JavaScript program to calculate the sum and product of two numbers.
+
+4. Write a JavaScript program to find the factorial of a number using function.
+
+5. Write a JavaScript program to find the largest of three numbers.
+
+6. Write a JavaScript program to print the multiplication table of an integer number.
+
+7. Write a JavaScript program to enter a list of positive numbers, terminated by 0. Find the sum and average of these numbers.
+
+8. Write a JavaScript program to read N numbers and count the number of positive numbers, negative numbers and zeroes in the list.
+
+9. Write a JDBC program to connect java interface with DBMS to perform the database management operations.
+
+10. Write a simple JSP program to print a message "Hello World!"
+
