@@ -27,8 +27,8 @@
 ## 📜List of Practical Questions:
 
 #### Q1) &ensp; Write a Java program to explore the different methods of ArrayList class.
-- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Internet-Technologies-5th-Sem/blob/main/Solutions/Java/Q-01/ArrayListMethod.java) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Internet-Technologies-5th-Sem/blob/main/Solutions/Java/Q-01/ArrayListMethod.jpg) 🖥
+- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Internet-Technologies-5th-Sem/blob/main/Solutions/Java/Q-01/ArrayListMethods.java) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Internet-Technologies-5th-Sem/blob/main/Solutions/Java/Q-01/ArrayListMethods.jpg) 🖥
 <br/>
 
 
